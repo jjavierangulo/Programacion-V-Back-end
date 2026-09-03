@@ -1,0 +1,24 @@
+{
+    "estudiante": [
+        {
+            "nombre": "Erick",
+            "apellido": "Gonzalez",
+            "edad": 20
+        },
+        {
+            "nombre": "Luisa",
+            "apellido": "Martinez",
+            "edad": 22
+        },
+        {
+            "nombre": "Carlos",
+            "apellido": "Rodriguez",
+            "edad": 21
+        },
+        {
+            "nombre": "Mariana",
+            "apellido": "Lopez",
+            "edad": 23
+        }
+    ]
+}

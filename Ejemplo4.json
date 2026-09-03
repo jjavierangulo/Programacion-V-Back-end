@@ -1,0 +1,28 @@
+{
+    "estudiante": [
+        {
+            "nombre": "erick",
+            "apellido": "gonzalez",
+            "edad": 20,
+            "id": 0
+        },
+        {
+            "nombre": "luisa",
+            "apellido": "martinez",
+            "edad": 22,
+            "id": 1
+        },
+        {
+            "nombre": "carlos",
+            "apellido": "rodriguez",
+            "edad": 21,
+            "id": 2
+        },
+        {
+            "nombre": "mariana",
+            "apellido": "lopez",
+            "edad": 23,
+            "id": 3
+        }
+    ]
+}

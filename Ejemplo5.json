@@ -1,0 +1,73 @@
+{
+    "producto": [
+        {
+            "id": 0,
+            "nombre": "Disco duro",
+            "precio": 300.000,
+            "disponible": true,
+            "categoria": "Tecnologia",
+            "marcas relacionadas": [
+                "Western Digital", 
+                "Seagate", 
+                "Toshiba"
+            ]
+        },
+        {
+            "id": 1,
+            "nombre": "Mouse",
+            "precio": 25.000,
+            "disponible": true,
+            "categoria": "Tecnologia",
+            "marcas relacionadas": [
+                "Logitech",
+                "Razer"
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Silla",
+            "precio": 600.000,
+            "disponible": true,
+            "categoria": "Hogar",
+            "marcas relacionadas": [
+                "Ikea",
+                "Herman Miller",
+                "Steelcase"
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Mesa",
+            "precio": 200.000,
+            "disponible": false,
+            "categoria": "Hogar",
+            "marcas relacionadas": [
+                "Ikea",
+                "Herman Miller",
+                "Steelcase"
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Camiseta",
+            "precio": 40.000,
+            "disponible": true,
+            "categoria": "Ropa",
+            "marcas relacionadas": [
+                "Nike",
+                "Adidas"
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Pantalon",
+            "precio": 80.000,
+            "disponible": true,
+            "categoria": "Ropa",
+            "marcas relacionadas": [
+                "Levi's",
+                "Wrangler"
+            ]
+        }
+    ]
+}
