@@ -1,0 +1,39 @@
+{
+  "tienda": {
+    "nombre": "GameJE",
+    "direccion": {
+      "ciudad": "Cali",
+      "pais": "Colombia"
+    },
+    "contacto": {
+      "telefono": "12345678911",
+      "correo": "Jaider@gmail.com"
+    },
+    "videojuegos": [
+      {
+        "nombre": "Pes2018",
+        "genero": "Deportes",
+        "precio": 180000,
+        "disponible": true
+      },
+      {
+        "nombre": "Minecraft",
+        "genero": "Aventura",
+        "precio": 120000,
+        "disponible": true
+      },
+      {
+        "nombre": "Call of Duty",
+        "genero": "Acción",
+        "precio": 200000,
+        "disponible": false
+      }
+    ],
+    "metodos de pago":[
+      "Efectivo",
+      "Tarjeta de credito",
+      "Daviplata",
+      "Nequi"
+    ]
+  }
+}
