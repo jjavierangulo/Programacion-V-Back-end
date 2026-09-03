@@ -1,0 +1,21 @@
+{
+  "usuario": {
+    "nombre": "Daniel",
+    "edad": 22,
+    "correo": "daniel@email.com",
+    "activo": true,
+    "direccion": {
+      "ciudad": "Cali",
+      "pais": "Colombia"
+    },
+    "hobbies": [
+      "Programación",
+      "Deportes",
+      "Música"
+    ],
+    "telefonos": [
+      "3001234567",
+      "3109876543"
+    ]
+  }
+}    
